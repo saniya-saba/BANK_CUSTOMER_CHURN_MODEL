@@ -3,6 +3,7 @@
 
 ## Project Overview
 This project focuses on predicting customer churn in the banking sector using machine learning techniques. The objective is to develop a model that can accurately identify customers who are likely to churn, helping the bank to implement targeted retention strategies.
+Internship Integration: This project was a pivotal part of my internship, allowing me to apply theoretical knowledge in a practical setting, collaborate with industry professionals, and gain hands-on experience in building and optimizing predictive models.
 
 ## Learning Objectives
 1. **Data Encoding:** Transform categorical data into numerical format using techniques like one-hot encoding and label encoding.
