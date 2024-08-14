@@ -1,5 +1,5 @@
 # Bank_Customer_Churn_Prediction_Model
-## project link:https://colab.research.google.com/drive/1I5J00yrFRovxaJZ0Ilp4q2Lqb3Evk3E4?usp=sharing
+### **project link**: https://colab.research.google.com/drive/1I5J00yrFRovxaJZ0Ilp4q2Lqb3Evk3E4?usp=sharing
 
 ## Project Overview
 This project focuses on predicting customer churn in the banking sector using machine learning techniques. The objective is to develop a model that can accurately identify customers who are likely to churn, helping the bank to implement targeted retention strategies.
